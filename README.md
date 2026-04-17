@@ -1,6 +1,6 @@
 <div>
 
-# Hi, I'm vanitase
+# *Hi, I'm vanitase*
 
 <img src="images/kyubey.gif" width="250" align="right">
 <br>
