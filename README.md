@@ -1,11 +1,11 @@
 <div align="center">
 
-<div style="display: flex; align-items: center; justify-content: space-between; max-width: 700px; margin: auto;">
+<table>
+<tr>
 
-<!-- TEXT -->
-<div style="text-align: left;">
+<td align="left">
 
-# Hi, I'm vanitase
+# *Hi, I'm vanitase*
 
 i make simple things look nice (sometimes)
 
@@ -16,15 +16,16 @@ i make simple things look nice (sometimes)
 ![badge](https://img.shields.io/badge/vanitase-0ea5e9)
 ![badge](https://img.shields.io/badge/own-grey)
 
-</div>
+</td>
 
-<div>
+<td>
+
 <img src="images/kyubey.gif" width="300">
-</div>
 
-</div>
+</td>
 
-<br>
+</tr>
+</table>
 
 ---
 
