@@ -3,9 +3,9 @@
 <table>
 <tr>
 
-<td align="left">
+<td align="center">
 
-# *Hi, I'm vanitase*
+# Hi, I'm vanitase
 
 i make simple things look nice (sometimes)
 
@@ -18,7 +18,7 @@ i make simple things look nice (sometimes)
 
 </td>
 
-<td>
+<td align="center">
 
 <img src="images/kyubey.gif" width="300">
 
@@ -28,8 +28,6 @@ i make simple things look nice (sometimes)
 </table>
 
 ---
-
-<br>
 
 <img src="images/banner.png" width="100%">
 
